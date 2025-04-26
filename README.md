@@ -83,5 +83,5 @@ http://localhost:8080/[project_name]/form
 
 ---
 
-## This is for the learning purpose
+## This project is created for the learning purpose
 
